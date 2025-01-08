@@ -1,5 +1,4 @@
-# PowerBI-Churn-Report
-# Customer Churn Analysis 
+# Customer Churn Analysis in Power BI
 ## 1.1 Project Overview
 
 This project utilizes Power BI to analyze customer churn, focusing on understanding the key factors driving attrition and identifying actionable insights to improve customer retention. By leveraging a dataset covering customer demographics, service usage, contract details, and churn reasons, the project offers data-driven strategies for reducing churn rates and fostering long-term customer loyalty.
