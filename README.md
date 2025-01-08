@@ -15,6 +15,7 @@ The dataset’s multidimensional nature enables a deep dive into customer behavi
 ## 3.1 Analysis Performed
 
 ### 3.1.1. Churn Rate and Reasons
+![Churn Rate and Reasons](images/ChurnRateandReasons.jpg "Churn Rate and Reasons Chart") 
 
 The churn rate was calculated at **26.86%**, as shown in the top-left metric. The bar chart highlights the most common reasons for churn:
 
