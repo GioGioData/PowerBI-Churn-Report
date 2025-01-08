@@ -30,6 +30,8 @@ The analysis revealed that customers with **month-to-month contracts** have the 
 ---
 
 ### 3.1.3 Account Length and Churn
+![Account Length and Churn](images/AccountLength.jpg "Account Length and Churn Chart")
+
 
 The bar and line chart illustrate the relationship between **account length** and churn rate:
 
@@ -41,6 +43,7 @@ This analysis highlights the need for improved engagement during the initial mon
 ---
 
 ### 3.1.4 Charges and Churn Behavior
+![ExtraCharges](images/ExtraCharges.jpg "ExtraCharges Chart")
 
 High monthly charges and extra fees are strong predictors of churn:
 
@@ -52,6 +55,7 @@ Tailored pricing models or incentives for high-spending customers could address 
 ---
 
 ### 3.1.5 Geographical Distribution of Churn
+![ChurnDemographics](images/ChurnDemographics.jpg "ChurnDemographics Chart")
 
 The map visualization highlights regional disparities in churn rates. Certain states exhibit significantly higher churn, pointing to the need for region-specific strategies. For example, states with red markers indicate areas with a higher proportion of churned customers.
 
@@ -60,6 +64,7 @@ Understanding local market dynamics and addressing region-specific challenges ca
 ---
 
 ### 3.1.6 Customer Service and Churn
+![PaymentandContract](images/PaymentandContract.jpg "PaymentandContract Chart")
 
 A scatter plot analysis demonstrates the relationship between **customer service interactions** and churn:
 
